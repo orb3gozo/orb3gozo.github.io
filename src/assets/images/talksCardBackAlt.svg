@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="640" height="640">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #d4b15d } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Layer">
+				<path id="b2doptanDH" class="shp0" d="M683.65 -187.02C730.12 -27.75 530.64 170.75 238.49 255.98C-53.67 341.2 -328.58 281.1 -375.04 121.83C-421.51 -37.44 -222.03 -235.93 70.12 -321.16C362.28 -406.39 637.19 -346.28 683.65 -187.02Z" />
+			</g>
+		</g>
+	</g>
+</svg>
