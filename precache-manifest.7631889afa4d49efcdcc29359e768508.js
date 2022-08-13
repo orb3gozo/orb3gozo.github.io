@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d557bb22c78a78a9ae5c3a8956ac383a",
+    "revision": "c309b41a2bcac5879f5a313e7dd39904",
     "url": "/index.html"
   },
   {
-    "revision": "0409c217e3d6300cc715",
+    "revision": "5e4407d536877a9f9d5a",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "e77bbbee7b1b0b4e8cdb",
+    "revision": "ffac0cd7e80576efca7a",
     "url": "/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "a38067c7691e2609bf69",
-    "url": "/static/css/main.85fb4217.chunk.css"
+    "revision": "3860f08e389d1fa9d072",
+    "url": "/static/css/main.58ca6fa4.chunk.css"
   },
   {
-    "revision": "d3eb6fc09227478b4d97",
-    "url": "/static/js/2.c2131eee.chunk.js"
+    "revision": "2c9f0e9395c1ea0042cd",
+    "url": "/static/js/2.2187a84b.chunk.js"
   },
   {
-    "revision": "0409c217e3d6300cc715",
-    "url": "/static/js/3.97856676.chunk.js"
+    "revision": "5e4407d536877a9f9d5a",
+    "url": "/static/js/3.884fb5bb.chunk.js"
   },
   {
-    "revision": "e77bbbee7b1b0b4e8cdb",
-    "url": "/static/js/4.29b45c70.chunk.js"
+    "revision": "ffac0cd7e80576efca7a",
+    "url": "/static/js/4.a03c2a4d.chunk.js"
   },
   {
-    "revision": "a38067c7691e2609bf69",
-    "url": "/static/js/main.eb986b89.chunk.js"
+    "revision": "3860f08e389d1fa9d072",
+    "url": "/static/js/main.07cb70e3.chunk.js"
   },
   {
-    "revision": "f33fd48ce2168801fdca",
-    "url": "/static/js/runtime-main.7b4929e0.js"
+    "revision": "4fa9465180e4bc5abd12",
+    "url": "/static/js/runtime-main.ae8e5e88.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -54,6 +54,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b05ae5b575a7e1125610944dc152c35f",
     "url": "/static/media/jsFramework.b05ae5b5.svg"
+  },
+  {
+    "revision": "83ef6969405b3019739aec53b3494368",
+    "url": "/static/media/logo-veridas-2.83ef6969.png"
+  },
+  {
+    "revision": "867688b020ae63daa45e11863d4866b4",
+    "url": "/static/media/logo-veridas.867688b0.png"
   },
   {
     "revision": "25bf045ca257e971124f3997d89f321c",
